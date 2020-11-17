@@ -6,7 +6,7 @@ namespace HW_06
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Выберите номер задачи 1 / 2 / 3");
+            Console.WriteLine("Выберите номер задачи 1 / 2 / 3 / 4(сравнение реверсов)");
             int number = Convert.ToInt32(Console.ReadLine());
 
             switch (number)
@@ -17,6 +17,14 @@ namespace HW_06
 
                 case (2):
                     task2.array();
+                    break;
+
+                case (3):
+                    task3.array();
+                    break;
+
+                case (4):
+                    check.array();
                     break;
             }
         }
