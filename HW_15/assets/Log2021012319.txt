@@ -1,0 +1,22 @@
+2021-01-23 19:21:27.844 +03:00 [INF] Application started HW_15.Program
+2021-01-23 19:21:28.241 +03:00 [INF] CRUD for list started.
+2021-01-23 19:21:28.249 +03:00 [INF] Minsk with ID: "b7295fbe-f5fd-4d56-b91f-bee5c3e2242a" created.
+2021-01-23 19:21:28.259 +03:00 [INF] Gomel with ID: "d0293c6a-0fcd-49cd-ae11-6c9e61cbc255" created.
+2021-01-23 19:21:28.260 +03:00 [INF] Mogilev with ID: "7b2247cb-f7f7-4883-94f9-677f61e08057" created.
+2021-01-23 19:21:28.262 +03:00 [INF] Brest with ID: "41c08f05-ce0b-45e9-8177-a224e045b0d8" created.
+2021-01-23 19:21:28.263 +03:00 [INF] Grodno with ID: "1d1ae1c1-36dd-453f-8a30-2f54763fdc09" created.
+2021-01-23 19:21:28.265 +03:00 [INF] Minsk with ID: "b7295fbe-f5fd-4d56-b91f-bee5c3e2242a" read.
+2021-01-23 19:21:28.267 +03:00 [INF] All 5 motorcycles from List read.
+2021-01-23 19:21:28.269 +03:00 [INF] Minsk with ID: "b7295fbe-f5fd-4d56-b91f-bee5c3e2242a" updated.
+2021-01-23 19:21:28.271 +03:00 [INF] Gomel with ID: "d0293c6a-0fcd-49cd-ae11-6c9e61cbc255" deleted.
+2021-01-23 19:21:28.272 +03:00 [INF] CRUD for File started.
+2021-01-23 19:21:28.777 +03:00 [INF] Minsk with ID: "b7295fbe-f5fd-4d56-b91f-bee5c3e2242a" created.
+2021-01-23 19:21:28.782 +03:00 [INF] Gomel with ID: "d0293c6a-0fcd-49cd-ae11-6c9e61cbc255" created.
+2021-01-23 19:21:28.785 +03:00 [INF] Mogilev with ID: "7b2247cb-f7f7-4883-94f9-677f61e08057" created.
+2021-01-23 19:21:28.789 +03:00 [INF] Brest with ID: "41c08f05-ce0b-45e9-8177-a224e045b0d8" created.
+2021-01-23 19:21:28.792 +03:00 [INF] Grodno with ID: "1d1ae1c1-36dd-453f-8a30-2f54763fdc09" created.
+2021-01-23 19:21:28.897 +03:00 [INF] Minsk with ID: "36e80437-55c8-4845-88dc-03fc5ab0f8f8" read.
+2021-01-23 19:21:28.982 +03:00 [INF] All 5 motorcycles from List read.
+2021-01-23 19:21:28.984 +03:00 [INF] Minsk with ID: "b7295fbe-f5fd-4d56-b91f-bee5c3e2242a" updated.
+2021-01-23 19:21:28.988 +03:00 [INF] Motorcycle with ID: "7b2247cb-f7f7-4883-94f9-677f61e08057" deleted.
+2021-01-23 19:21:28.990 +03:00 [INF] Application completed!
